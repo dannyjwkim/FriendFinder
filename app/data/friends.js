@@ -3,15 +3,15 @@ var friends = [{
   photo: "https://gravatar.com/avatar/88aa2d9a5be70a8bcb3604fe5158c3f6?s=512&d=https://codepen.io/assets/avatars/user-avatar-512x512-6e240cf350d2f1cc07c2bed234c3a3bb5f1b237023c204c782622e80d6b212ba.png",
   scores: [
       "5",
-      "2",
       "5",
+      "3",
+      "3",
       "1",
       "4",
       "4",
       "3",
-      "2",
-      "1",
-      "1"
+      "5",
+      "5"
   ]
 }, {
   name: "Dean",
@@ -62,16 +62,16 @@ var friends = [{
   name: "John",
   photo: "https://pbs.twimg.com/profile_images/734499572005752832/eNxYJ0-T.jpg",
   scores: [
-      "3",
-      "2",
-      "3",
-      "3",
+      "4",
       "4",
       "5",
       "2",
       "3",
       "4",
-      "5"
+      "3",
+      "1",
+      "5",
+      "1"
   ]
 }, {
   name: "Musa",
