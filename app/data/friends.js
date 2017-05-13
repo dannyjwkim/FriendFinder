@@ -17,46 +17,46 @@ var friends = [{
   name: "Dean",
   photo: "https://media.licdn.com/mpr/mpr/shrinknp_200_200/p/8/000/239/184/396bba3.jpg",
   scores: [
-      "3",
       "1",
       "5",
+      "5",
       "3",
-      "2",
-      "4",
-      "3",
+      "5",
+      "5",
       "1",
       "2",
+      "5",
       "4"
   ]
 }, {
   name: "Ben",
   photo: "https://media.licdn.com/mpr/mpr/shrinknp_400_400/AAEAAQAAAAAAAAKyAAAAJDc5Mjc3N2Y2LTM1ZmYtNDg2ZC1iN2JiLTdjN2Y4N2U1Zjc2Nw.jpg",
   scores: [
-      "5",
-      "2",
+      "3",
+      "1",
+      "3",
+      "3",
       "4",
       "1",
       "1",
-      "2",
-      "3",
-      "5",
+      "4",
       "1",
-      "4"
+      "3"
   ]
 }, {
   name: "Stephen",
   photo: "https://media.licdn.com/mpr/mpr/shrinknp_400_400/AAEAAQAAAAAAAAkHAAAAJDdmMjQxMDU5LWExODAtNDE5Ni1hMzQwLWNhNmMxYWU2MmQxZg.jpg",
   scores: [
-      "4",
-      "1",
+      "5",
+      "3",
+      "5",
+      "5",
       "3",
       "1",
+      "1",
+      "1",
       "5",
-      "4",
-      "2",
-      "2",
-      "5",
-      "1"
+      "3"
   ]
 }, {
   name: "John",
@@ -77,16 +77,16 @@ var friends = [{
   name: "Musa",
   photo: "https://media.licdn.com/mpr/mpr/shrinknp_200_200/AAEAAQAAAAAAAAl1AAAAJGI3ZWRiZjlhLWFiZWItNGZiNy1hODJjLWE4MDM1N2VlYTgxMg.jpg",
   scores: [
-      "2",
+      "4",
+      "1",
+      "1",
+      "3",
       "3",
       "1",
-      "5",
-      "5",
-      "4",
+      "2",
       "2",
       "1",
-      "2",
-      "5"
+      "3"
   ]
 }];
 
